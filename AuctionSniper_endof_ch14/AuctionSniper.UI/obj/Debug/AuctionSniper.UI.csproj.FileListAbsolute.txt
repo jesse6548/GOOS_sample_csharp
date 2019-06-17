@@ -7,3 +7,14 @@ C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\Auction
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.dll
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.UI.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.UI.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.Domain.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.Fakes.XMPPServer.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.Domain.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.csprojAssemblyReference.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.csproj.CoreCompileInputs.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.csproj.CopyComplete
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.UI\obj\Debug\AuctionSniper.UI.pdb

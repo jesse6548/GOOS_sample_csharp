@@ -9,3 +9,16 @@ C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.dll
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Fakes.WinFormLicker.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Fakes.WinFormLicker.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.UI.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Fakes.XMPPServer.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Domain.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.UI.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\bin\Debug\AuctionSniper.Domain.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.csprojAssemblyReference.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.csproj.CoreCompileInputs.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.csproj.CopyComplete
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.WinFormLicker\obj\Debug\AuctionSniper.Fakes.WinFormLicker.pdb

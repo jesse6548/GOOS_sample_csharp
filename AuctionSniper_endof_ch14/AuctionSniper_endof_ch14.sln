@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionSniper.Domain", "AuctionSniper.Domain\AuctionSniper.Domain.csproj", "{D6D6B0D0-6C9B-4BDC-9216-6F1A76A9FA0D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionSniper.Fakes.WinFormLicker", "AuctionSniper.Fakes.WinFormLicker\AuctionSniper.Fakes.WinFormLicker.csproj", "{0C16CB5F-380B-486D-ACA9-CDF6A1B6ABC7}"
@@ -46,5 +48,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BBD18B9-7531-4E7E-BF43-395E503624D9}
 	EndGlobalSection
 EndGlobal

@@ -9,3 +9,14 @@ C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.dll
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Tests.Unit.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Tests.Unit.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Domain.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Fakes.XMPPServer.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Domain.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.csprojAssemblyReference.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.csproj.CoreCompileInputs.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.csproj.CopyComplete
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Tests.Unit\obj\Debug\AuctionSniper.Tests.Unit.pdb

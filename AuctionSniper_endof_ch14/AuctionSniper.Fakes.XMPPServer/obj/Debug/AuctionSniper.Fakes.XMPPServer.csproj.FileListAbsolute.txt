@@ -3,3 +3,9 @@ C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\bin
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\ResolveAssemblyReference.cache
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\AuctionSniper.Fakes.XMPPServer.dll
 C:\SourceCode\dotNet\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\AuctionSniper.Fakes.XMPPServer.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\bin\Debug\AuctionSniper.Fakes.XMPPServer.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\bin\Debug\AuctionSniper.Fakes.XMPPServer.pdb
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\AuctionSniper.Fakes.XMPPServer.csprojAssemblyReference.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\AuctionSniper.Fakes.XMPPServer.csproj.CoreCompileInputs.cache
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\AuctionSniper.Fakes.XMPPServer.dll
+D:\work\GOOS_sample_csharp\AuctionSniper_endof_ch14\AuctionSniper.Fakes.XMPPServer\obj\Debug\AuctionSniper.Fakes.XMPPServer.pdb
